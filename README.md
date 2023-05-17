@@ -8,5 +8,7 @@ It only runs on macOS environments based on Apple Sillicon, and only supports Ja
 ## Requirements
 
 Python 3
+
 Firefox
-And check requirements.txt
+
+and check requirements.txt
