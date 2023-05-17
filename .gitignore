@@ -1,4 +1,6 @@
 *.mp4
 *.srt
 .DS_Store
-geckodriver.log
+chromedriver
+chromedriver.zip
+__pycache__
