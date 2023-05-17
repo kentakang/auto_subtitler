@@ -1,4 +1,4 @@
-# Auto subtitler
+# auto_subtitler
 
 ## Notes
 
